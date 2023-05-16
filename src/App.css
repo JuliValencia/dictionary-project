@@ -1,8 +1,12 @@
 body {
-  background-image: url("./background.jpeg");
+  background-image: linear-gradient(
+      rgb(131, 105, 70, 0.5),
+      rgb(131, 105, 70, 0.5)
+    ),
+    url("./background.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
-  background-color: #836946;
+  background-color: rgb(131, 105, 70);
 }
 main {
   max-width: 900px;
