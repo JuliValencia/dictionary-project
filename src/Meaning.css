@@ -1,0 +1,14 @@
+.Meaning h4 {
+  font-size: 26px;
+  color: #3e3a35;
+  font-family: "Playfair Display", serif;
+  font-weight: bold;
+  text-decoration: underline;
+  font-style: italic;
+}
+
+.Meaning {
+  font-size: 18px;
+  color: #3e3a35;
+  font-family: "Poppins", sans-serif;
+}

@@ -1,51 +1,35 @@
+.Dictionary section {
+  background: aliceblue;
+  opacity: 0.8;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.4);
+  margin: 10px 0;
+}
+
 .Dictionary h1 {
   color: #2e2416;
   font-family: "Poppins", sans-serif;
   font-size: 58px;
   font-weight: bold;
-  margin-top: 50px;
+  margin-top: 10px;
+}
+.Dictionary h3 {
+  color: #2e2416;
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  margin: 15px 10px 5px;
 }
 
 .Dictionary form {
   font-family: "Poppins", sans-serif;
-  margin-top: 30px;
+  margin-top: 10px;
 }
 
 .Dictionary .form-control {
-  width: 300px;
+  width: 100%;
   margin: 5px 5px;
-  padding: 5px 5px;
+  padding: 8px 6px;
   border: solid #2e2416;
   border-width: 2px;
-}
-
-.Dictionary h2 {
-  font-size: 45px;
-  color: #e28b10;
-  font-family: "Poppins", sans-serif;
-  margin-top: 15px;
-}
-
-.Dictionary h6 {
-  font-size: 20px;
-  color: #3e3a35;
-  font-family: "Poppins", sans-serif;
-}
-.Dictionary h4 {
-  font-size: 25px;
-  color: #3e3a35;
-  font-family: "Playfair Display", serif;
-  font-weight: bold;
-  text-decoration: underline;
-}
-
-.Dictionary p {
-  font-size: 18px;
-  color: #3e3a35;
-  font-family: "Poppins", sans-serif;
-}
-.Dictionary .Example {
-  font-size: 20px;
-  color: #6f6151;
-  font-family: "Playfair Display", serif;
 }
