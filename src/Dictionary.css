@@ -2,11 +2,50 @@
   color: #2e2416;
   font-family: "Poppins", sans-serif;
   font-size: 58px;
-
-  margin-top: 70px;
+  font-weight: bold;
+  margin-top: 50px;
 }
 
 .Dictionary form {
   font-family: "Poppins", sans-serif;
   margin-top: 30px;
+}
+
+.Dictionary .form-control {
+  width: 300px;
+  margin: 5px 5px;
+  padding: 5px 5px;
+  border: solid #2e2416;
+  border-width: 2px;
+}
+
+.Dictionary h2 {
+  font-size: 45px;
+  color: #e28b10;
+  font-family: "Poppins", sans-serif;
+  margin-top: 15px;
+}
+
+.Dictionary h6 {
+  font-size: 20px;
+  color: #3e3a35;
+  font-family: "Poppins", sans-serif;
+}
+.Dictionary h4 {
+  font-size: 25px;
+  color: #3e3a35;
+  font-family: "Playfair Display", serif;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.Dictionary p {
+  font-size: 18px;
+  color: #3e3a35;
+  font-family: "Poppins", sans-serif;
+}
+.Dictionary .Example {
+  font-size: 20px;
+  color: #6f6151;
+  font-family: "Playfair Display", serif;
 }

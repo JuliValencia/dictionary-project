@@ -31,8 +31,9 @@ export default function Dictionary() {
         <input
           type="search"
           placeholder="Search for a word"
+          className="form-control"
           onChange={handleKeywordChange}
-        />
+        />{" "}
       </form>
       <Results results={results} />
     </div>
